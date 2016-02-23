@@ -1,0 +1,1 @@
+﻿# TellBurgerkingKr 설문조사 Python 자동화 스크립트
